@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Genshin Character</string>
+    <string name="scroll_to_top">Scroll To Top</string>
+    <string name="search_character">Search Character</string>
+</resources>
